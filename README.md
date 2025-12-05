@@ -141,7 +141,7 @@ El proyecto sigue el **método científico** estructurado como "Operación Anti-
 5. **Conclusiones**: Plan Anti-Z y protocolo final
 
 ## 👥 Autor
-
+Nicolas Hernandez - Gustavo Roldan
 Escuadrón BI - Evaluación 3: Integración de Modelos, Árboles de Decisión y Clúster Jerárquico
 
 ## 📄 Licencia
